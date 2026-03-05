@@ -1,0 +1,21 @@
+{
+  "name": "ghibli-forest-theme",
+  "displayName": "ghibli-forest-theme",
+  "description": "A Cozy Setup",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.109.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Studio-Ghibli Theme",
+        "uiTheme": "vs",
+        "path": "./themes/Studio-Ghibli Theme-color-theme.json"
+      }
+    ]
+  }
+}
