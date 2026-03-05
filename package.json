@@ -17,5 +17,9 @@
         "path": "./themes/Studio-Ghibli Theme-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thevintagecoder/ghibli-forest-theme-vscode-extension.git"
   }
 }
